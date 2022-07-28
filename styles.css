@@ -4,14 +4,14 @@
 }
 
 :root {
-  --gondola:#090606;
+  --gondola: #090606;
   --cod-gray: #0E0D0D;
-  --hint-of-red:#F5F0F1;
+  --hint-of-red: #F5F0F1;
   --gradient-radical-red-and-red-ribbon:linear-gradient(#FF3F58 100%, #E50D29 100%);
   --light-gray: #F5F0F11A;
   --radical-red: #FF3F58;
-  --dodger-blue:#18B4F9;
-  --yellow-orange:#FEA441;
+  --dodger-blue: #18B4F9;
+  --yellow-orange: #FEA441;
   --black: #000000;
 }
 
